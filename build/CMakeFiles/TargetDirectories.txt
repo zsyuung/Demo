@@ -1,0 +1,3 @@
+/home/zsyuung/kaohe5_final/build/CMakeFiles/rebuild_cache.dir
+/home/zsyuung/kaohe5_final/build/CMakeFiles/edit_cache.dir
+/home/zsyuung/kaohe5_final/build/CMakeFiles/chess.dir

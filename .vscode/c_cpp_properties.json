@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/events",
+                "${workspaceFolder}/protodir",
+                "${workspaceFolder}",
+                "${workspaceFolder}/common",
+                "${workspaceFolder}/test",
+                "${workspaceFolder}/threadpool",
+                "${workspaceFolder}/handlers",
+                "${workspaceFolder}/networkinterface",
+                "${workspaceFolder}/configset",
+                "${workspaceFolder}/include/iniparser",
+                "${workspaceFolder}/mysqlconn",
+                "${workspaceFolder}/bussiness",
+                "${workspaceFolder}/dispatchmsgserver"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

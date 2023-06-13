@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/zsyuung/kaohe5_final/build",
+  "command": "/usr/bin/g++   -I/home/zsyuung/kaohe5_final/events -I/home/zsyuung/kaohe5_final/protodir -I/home/zsyuung/kaohe5_final/common -I/home/zsyuung/kaohe5_final/handlers -I/home/zsyuung/kaohe5_final/threadpool -I/home/zsyuung/kaohe5_final/dispatchmsgserver -I/home/zsyuung/kaohe5_final/networkinterface -I/home/zsyuung/kaohe5_final/configset -I/home/zsyuung/kaohe5_final/include/iniparser -I/home/zsyuung/kaohe5_final/mysqlconn -I/home/zsyuung/kaohe5_final/bussiness -I/home/zsyuung/kaohe5_final/test  -g   -o CMakeFiles/chess.dir/main.cpp.o -c /home/zsyuung/kaohe5_final/main.cpp",
+  "file": "/home/zsyuung/kaohe5_final/main.cpp"
+},
+{
+  "directory": "/home/zsyuung/kaohe5_final/build",
+  "command": "/usr/bin/g++   -I/home/zsyuung/kaohe5_final/events -I/home/zsyuung/kaohe5_final/protodir -I/home/zsyuung/kaohe5_final/common -I/home/zsyuung/kaohe5_final/handlers -I/home/zsyuung/kaohe5_final/threadpool -I/home/zsyuung/kaohe5_final/dispatchmsgserver -I/home/zsyuung/kaohe5_final/networkinterface -I/home/zsyuung/kaohe5_final/configset -I/home/zsyuung/kaohe5_final/include/iniparser -I/home/zsyuung/kaohe5_final/mysqlconn -I/home/zsyuung/kaohe5_final/bussiness -I/home/zsyuung/kaohe5_final/test  -g   -o CMakeFiles/chess.dir/protodir/chess.pb.cpp.o -c /home/zsyuung/kaohe5_final/protodir/chess.pb.cpp",
+  "file": "/home/zsyuung/kaohe5_final/protodir/chess.pb.cpp"
+},
+{
+  "directory": "/home/zsyuung/kaohe5_final/build",
+  "command": "/usr/bin/g++   -I/home/zsyuung/kaohe5_final/events -I/home/zsyuung/kaohe5_final/protodir -I/home/zsyuung/kaohe5_final/common -I/home/zsyuung/kaohe5_final/handlers -I/home/zsyuung/kaohe5_final/threadpool -I/home/zsyuung/kaohe5_final/dispatchmsgserver -I/home/zsyuung/kaohe5_final/networkinterface -I/home/zsyuung/kaohe5_final/configset -I/home/zsyuung/kaohe5_final/include/iniparser -I/home/zsyuung/kaohe5_final/mysqlconn -I/home/zsyuung/kaohe5_final/bussiness -I/home/zsyuung/kaohe5_final/test  -g   -o CMakeFiles/chess.dir/events/events.cpp.o -c /home/zsyuung/kaohe5_final/events/events.cpp",
+  "file": "/home/zsyuung/kaohe5_final/events/events.cpp"
+},
+{
+  "directory": "/home/zsyuung/kaohe5_final/build",
+  "command": "/usr/bin/g++   -I/home/zsyuung/kaohe5_final/events -I/home/zsyuung/kaohe5_final/protodir -I/home/zsyuung/kaohe5_final/common -I/home/zsyuung/kaohe5_final/handlers -I/home/zsyuung/kaohe5_final/threadpool -I/home/zsyuung/kaohe5_final/dispatchmsgserver -I/home/zsyuung/kaohe5_final/networkinterface -I/home/zsyuung/kaohe5_final/configset -I/home/zsyuung/kaohe5_final/include/iniparser -I/home/zsyuung/kaohe5_final/mysqlconn -I/home/zsyuung/kaohe5_final/bussiness -I/home/zsyuung/kaohe5_final/test  -g   -o CMakeFiles/chess.dir/events/eventtype.cpp.o -c /home/zsyuung/kaohe5_final/events/eventtype.cpp",
+  "file": "/home/zsyuung/kaohe5_final/events/eventtype.cpp"
+},
+{
+  "directory": "/home/zsyuung/kaohe5_final/build",
+  "command": "/usr/bin/g++   -I/home/zsyuung/kaohe5_final/events -I/home/zsyuung/kaohe5_final/protodir -I/home/zsyuung/kaohe5_final/common -I/home/zsyuung/kaohe5_final/handlers -I/home/zsyuung/kaohe5_final/threadpool -I/home/zsyuung/kaohe5_final/dispatchmsgserver -I/home/zsyuung/kaohe5_final/networkinterface -I/home/zsyuung/kaohe5_final/configset -I/home/zsyuung/kaohe5_final/include/iniparser -I/home/zsyuung/kaohe5_final/mysqlconn -I/home/zsyuung/kaohe5_final/bussiness -I/home/zsyuung/kaohe5_final/test  -g   -o CMakeFiles/chess.dir/handlers/chess_handler.cpp.o -c /home/zsyuung/kaohe5_final/handlers/chess_handler.cpp",
+  "file": "/home/zsyuung/kaohe5_final/handlers/chess_handler.cpp"
+},
+{
+  "directory": "/home/zsyuung/kaohe5_final/build",
+  "command": "/usr/bin/g++   -I/home/zsyuung/kaohe5_final/events -I/home/zsyuung/kaohe5_final/protodir -I/home/zsyuung/kaohe5_final/common -I/home/zsyuung/kaohe5_final/handlers -I/home/zsyuung/kaohe5_final/threadpool -I/home/zsyuung/kaohe5_final/dispatchmsgserver -I/home/zsyuung/kaohe5_final/networkinterface -I/home/zsyuung/kaohe5_final/configset -I/home/zsyuung/kaohe5_final/include/iniparser -I/home/zsyuung/kaohe5_final/mysqlconn -I/home/zsyuung/kaohe5_final/bussiness -I/home/zsyuung/kaohe5_final/test  -g   -o CMakeFiles/chess.dir/handlers/handlers.cpp.o -c /home/zsyuung/kaohe5_final/handlers/handlers.cpp",
+  "file": "/home/zsyuung/kaohe5_final/handlers/handlers.cpp"
+},
+{
+  "directory": "/home/zsyuung/kaohe5_final/build",
+  "command": "/usr/bin/g++   -I/home/zsyuung/kaohe5_final/events -I/home/zsyuung/kaohe5_final/protodir -I/home/zsyuung/kaohe5_final/common -I/home/zsyuung/kaohe5_final/handlers -I/home/zsyuung/kaohe5_final/threadpool -I/home/zsyuung/kaohe5_final/dispatchmsgserver -I/home/zsyuung/kaohe5_final/networkinterface -I/home/zsyuung/kaohe5_final/configset -I/home/zsyuung/kaohe5_final/include/iniparser -I/home/zsyuung/kaohe5_final/mysqlconn -I/home/zsyuung/kaohe5_final/bussiness -I/home/zsyuung/kaohe5_final/test  -g   -o CMakeFiles/chess.dir/threadpool/thread_cond.cpp.o -c /home/zsyuung/kaohe5_final/threadpool/thread_cond.cpp",
+  "file": "/home/zsyuung/kaohe5_final/threadpool/thread_cond.cpp"
+},
+{
+  "directory": "/home/zsyuung/kaohe5_final/build",
+  "command": "/usr/bin/g++   -I/home/zsyuung/kaohe5_final/events -I/home/zsyuung/kaohe5_final/protodir -I/home/zsyuung/kaohe5_final/common -I/home/zsyuung/kaohe5_final/handlers -I/home/zsyuung/kaohe5_final/threadpool -I/home/zsyuung/kaohe5_final/dispatchmsgserver -I/home/zsyuung/kaohe5_final/networkinterface -I/home/zsyuung/kaohe5_final/configset -I/home/zsyuung/kaohe5_final/include/iniparser -I/home/zsyuung/kaohe5_final/mysqlconn -I/home/zsyuung/kaohe5_final/bussiness -I/home/zsyuung/kaohe5_final/test  -g   -o CMakeFiles/chess.dir/threadpool/thread_mutex.cpp.o -c /home/zsyuung/kaohe5_final/threadpool/thread_mutex.cpp",
+  "file": "/home/zsyuung/kaohe5_final/threadpool/thread_mutex.cpp"
+},
+{
+  "directory": "/home/zsyuung/kaohe5_final/build",
+  "command": "/usr/bin/g++   -I/home/zsyuung/kaohe5_final/events -I/home/zsyuung/kaohe5_final/protodir -I/home/zsyuung/kaohe5_final/common -I/home/zsyuung/kaohe5_final/handlers -I/home/zsyuung/kaohe5_final/threadpool -I/home/zsyuung/kaohe5_final/dispatchmsgserver -I/home/zsyuung/kaohe5_final/networkinterface -I/home/zsyuung/kaohe5_final/configset -I/home/zsyuung/kaohe5_final/include/iniparser -I/home/zsyuung/kaohe5_final/mysqlconn -I/home/zsyuung/kaohe5_final/bussiness -I/home/zsyuung/kaohe5_final/test  -g   -o CMakeFiles/chess.dir/threadpool/thread_pool.cpp.o -c /home/zsyuung/kaohe5_final/threadpool/thread_pool.cpp",
+  "file": "/home/zsyuung/kaohe5_final/threadpool/thread_pool.cpp"
+},
+{
+  "directory": "/home/zsyuung/kaohe5_final/build",
+  "command": "/usr/bin/g++   -I/home/zsyuung/kaohe5_final/events -I/home/zsyuung/kaohe5_final/protodir -I/home/zsyuung/kaohe5_final/common -I/home/zsyuung/kaohe5_final/handlers -I/home/zsyuung/kaohe5_final/threadpool -I/home/zsyuung/kaohe5_final/dispatchmsgserver -I/home/zsyuung/kaohe5_final/networkinterface -I/home/zsyuung/kaohe5_final/configset -I/home/zsyuung/kaohe5_final/include/iniparser -I/home/zsyuung/kaohe5_final/mysqlconn -I/home/zsyuung/kaohe5_final/bussiness -I/home/zsyuung/kaohe5_final/test  -g   -o CMakeFiles/chess.dir/dispatchmsgserver/dispatchmsgserver.cpp.o -c /home/zsyuung/kaohe5_final/dispatchmsgserver/dispatchmsgserver.cpp",
+  "file": "/home/zsyuung/kaohe5_final/dispatchmsgserver/dispatchmsgserver.cpp"
+},
+{
+  "directory": "/home/zsyuung/kaohe5_final/build",
+  "command": "/usr/bin/g++   -I/home/zsyuung/kaohe5_final/events -I/home/zsyuung/kaohe5_final/protodir -I/home/zsyuung/kaohe5_final/common -I/home/zsyuung/kaohe5_final/handlers -I/home/zsyuung/kaohe5_final/threadpool -I/home/zsyuung/kaohe5_final/dispatchmsgserver -I/home/zsyuung/kaohe5_final/networkinterface -I/home/zsyuung/kaohe5_final/configset -I/home/zsyuung/kaohe5_final/include/iniparser -I/home/zsyuung/kaohe5_final/mysqlconn -I/home/zsyuung/kaohe5_final/bussiness -I/home/zsyuung/kaohe5_final/test  -g   -o CMakeFiles/chess.dir/networkinterface/networkinterface.cpp.o -c /home/zsyuung/kaohe5_final/networkinterface/networkinterface.cpp",
+  "file": "/home/zsyuung/kaohe5_final/networkinterface/networkinterface.cpp"
+},
+{
+  "directory": "/home/zsyuung/kaohe5_final/build",
+  "command": "/usr/bin/g++   -I/home/zsyuung/kaohe5_final/events -I/home/zsyuung/kaohe5_final/protodir -I/home/zsyuung/kaohe5_final/common -I/home/zsyuung/kaohe5_final/handlers -I/home/zsyuung/kaohe5_final/threadpool -I/home/zsyuung/kaohe5_final/dispatchmsgserver -I/home/zsyuung/kaohe5_final/networkinterface -I/home/zsyuung/kaohe5_final/configset -I/home/zsyuung/kaohe5_final/include/iniparser -I/home/zsyuung/kaohe5_final/mysqlconn -I/home/zsyuung/kaohe5_final/bussiness -I/home/zsyuung/kaohe5_final/test  -g   -o CMakeFiles/chess.dir/configset/iniconfig.cpp.o -c /home/zsyuung/kaohe5_final/configset/iniconfig.cpp",
+  "file": "/home/zsyuung/kaohe5_final/configset/iniconfig.cpp"
+},
+{
+  "directory": "/home/zsyuung/kaohe5_final/build",
+  "command": "/usr/bin/g++   -I/home/zsyuung/kaohe5_final/events -I/home/zsyuung/kaohe5_final/protodir -I/home/zsyuung/kaohe5_final/common -I/home/zsyuung/kaohe5_final/handlers -I/home/zsyuung/kaohe5_final/threadpool -I/home/zsyuung/kaohe5_final/dispatchmsgserver -I/home/zsyuung/kaohe5_final/networkinterface -I/home/zsyuung/kaohe5_final/configset -I/home/zsyuung/kaohe5_final/include/iniparser -I/home/zsyuung/kaohe5_final/mysqlconn -I/home/zsyuung/kaohe5_final/bussiness -I/home/zsyuung/kaohe5_final/test  -g   -o CMakeFiles/chess.dir/test/test.cpp.o -c /home/zsyuung/kaohe5_final/test/test.cpp",
+  "file": "/home/zsyuung/kaohe5_final/test/test.cpp"
+}
+]

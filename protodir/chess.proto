@@ -1,0 +1,70 @@
+syntax = "proto2";
+
+
+package chess_protocal;
+
+
+//登录消息 -> 请求
+message login_request
+{
+    required string UserID   = 1;   //账号
+    required string PassWord = 2;   //密码
+}
+
+//登录消息 -> 响应
+message login_response
+{
+    required int32  response_code = 1;   //响应代码
+    optional string data          = 2;   //响应(成功的数据/失败的原因)
+}
+
+
+//选厅消息 -> 请求
+message select_hall_request
+{
+    required int32 hall_number = 1;    //大厅的编号
+}
+
+//选厅消息 -> 响应
+message select_hall_response
+{
+    required int32  response_code = 1;   //响应代码
+    optional string data          = 2;   //响应(成功的数据/失败的原因)
+}
+
+
+//选座消息 -> 请求
+message select_table_request
+{
+    required int32 table_number = 1;    //选座编号
+}
+
+//选座消息 -> 响应
+message select_table_response
+{
+    required int32  response_code = 1;   //响应代码
+    optional string data          = 2;   //响应(成功的数据/失败的原因)
+}
+
+
+//开始下棋 -> 请求
+message playing_chess_request
+{
+    required int32  hall_number   = 1;   //大厅的编号
+    required int32  table_number  = 2;   //桌子的编号
+    optional int32  game_stat     = 3;   //是否开启游戏的代码
+    optional int32  x_pos         = 4;   //棋盘的x坐标
+    optional int32  y_pos         = 5;   //棋盘的y坐标
+}
+
+//开始下棋 -> 响应
+message playing_chess_response
+{
+    required int32  response_code = 1;   //响应代码
+    optional string data          = 2;   //响应(成功的数据/失败的原因)
+    required int32  game_stat     = 3;   //是否开启游戏的代码
+    optional int32  x_pos         = 4;   //棋盘的x坐标
+    optional int32  y_pos         = 5;   //棋盘的y坐标
+    optional int32  rows          = 6;   //棋盘的行数
+    optional int32  columns       = 7;   //棋盘的列数
+}
